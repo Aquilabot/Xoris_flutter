@@ -43,7 +43,7 @@ class MenuTapState extends State<MenuTap> with TickerProviderStateMixin {
               child: TabBarView(
                 controller: _controller,
                 children: <Widget>[
-                  ProductListView(coffeesList),
+                  ProductListView(xorisProductList),
                   ProductListView(drinksList),
                   ProductListView(cakesList),
                   ProductListView(sandwichesList),
@@ -52,7 +52,7 @@ class MenuTapState extends State<MenuTap> with TickerProviderStateMixin {
             ),
           ],
         ),
-      ),
+      ),  
     );
   }
 

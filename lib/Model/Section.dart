@@ -17,7 +17,7 @@ List<Section> sections = [
     title: td1Str,
     color: Colors.yellow,
     subtitle: "Placeholder 1",
-    list: coffeesList,
+    list: xorisProductList,
   ),
   Section(
     title: td2Str,

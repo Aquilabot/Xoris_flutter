@@ -5,7 +5,7 @@ class Product {
 }
 
 //TODO auto wrap content
-List<Product> coffeesList = [
+List<Product> xorisProductList = [
   //TODO AWS db
   Product(
     price: "\$30",
