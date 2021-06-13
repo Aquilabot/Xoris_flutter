@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-xorisflutter-dev-113704-authRole",
+      "UnauthRoleArn": "arn:aws:iam::620739530986:role/amplify-xorisflutter-dev-113704-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::620739530986:role/amplify-xorisflutter-dev-113704-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-xorisflutter-dev-113704-deployment",
+      "UnauthRoleName": "amplify-xorisflutter-dev-113704-unauthRole",
+      "StackName": "amplify-xorisflutter-dev-113704",
+      "StackId": "arn:aws:cloudformation:us-west-2:620739530986:stack/amplify-xorisflutter-dev-113704/c5a32940-c877-11eb-80ef-0286172ce653",
+      "AmplifyAppId": "drtppohqsvvr2"
+    }
+  }
+}
